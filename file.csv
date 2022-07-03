@@ -1,0 +1,6 @@
+SKU,Product Name,Product Image,Status,Category
+1,Demo 1,http://www.demo1.com,active,"image1,image2,image3"
+2,Demo 2,http://www.demo1.com,deactivate,"cat1,icat2,cat3"
+3,Demo 3,http://www.demo1.com,active,"image1,image2,image3"
+4,Demo 4,http://www.demo1.com,deactivate,"image1,image2,image3"
+5,Demo 5,http://www.demo5.com,activate,"category1, category2"
